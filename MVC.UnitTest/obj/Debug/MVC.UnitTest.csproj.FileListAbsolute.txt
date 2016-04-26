@@ -1,0 +1,174 @@
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\MVC.UnitTest.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\MVC.UnitTest.pdb
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Antlr3.Runtime.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.AspNet.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.Core.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.OAuth.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.OpenId.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\EntityFramework.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Microsoft.Data.Edm.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Microsoft.Data.OData.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Newtonsoft.Json.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Net.Http.Formatting.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Spatial.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Helpers.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Http.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Http.OData.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Http.WebHost.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Mvc.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Optimization.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Razor.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.WebPages.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.WebPages.Razor.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\WebGrease.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\WebMatrix.Data.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\WebMatrix.WebData.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\EntityFramework.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Newtonsoft.Json.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Net.Http.Formatting.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Helpers.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Http.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Http.WebHost.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Mvc.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Razor.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.WebPages.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.WebPages.Razor.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\WebMatrix.Data.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\WebMatrix.WebData.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.AspNet.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.Core.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.OAuth.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.OpenId.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Web.Http.OData.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Microsoft.Data.Edm.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\Microsoft.Data.OData.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\System.Spatial.xml
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\de\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\es\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\fr\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\it\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ja\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ko\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\ru\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\obj\Debug\MVC.UnitTest.dll
+c:\users\srathor\documents\visual studio 2012\Projects\MVC.UnitTest\MVC.UnitTest\obj\Debug\MVC.UnitTest.pdb
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\MVC.UnitTest.dll.config
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\MVC.UnitTest.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\MVC.UnitTest.pdb
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Antlr3.Runtime.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.AspNet.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.Core.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.OAuth.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.OpenId.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\EntityFramework.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Microsoft.Data.Edm.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Microsoft.Data.OData.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Newtonsoft.Json.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Net.Http.Formatting.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Spatial.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Helpers.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Http.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Http.OData.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Http.WebHost.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Mvc.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Optimization.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Razor.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.WebPages.Deployment.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.WebPages.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.WebPages.Razor.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\WebGrease.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\WebMatrix.Data.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\WebMatrix.WebData.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Mono.Math.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\EntityFramework.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Newtonsoft.Json.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Net.Http.Formatting.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Helpers.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Http.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Http.WebHost.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Mvc.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Razor.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.WebPages.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.WebPages.Deployment.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.WebPages.Razor.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\WebMatrix.Data.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\WebMatrix.WebData.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.AspNet.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.Core.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.OAuth.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.OpenId.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Web.Http.OData.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Microsoft.Data.Edm.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Microsoft.Data.OData.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\System.Spatial.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\Mono.Math.xml
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\de\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\es\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\it\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\de\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\es\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\fr\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\it\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ja\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ko\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\ru\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\zh-Hans\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\bin\zh-Hant\System.Spatial.resources.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\obj\Debug\MVC.UnitTest.csprojResolveAssemblyReference.cache
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\obj\Debug\MVC.UnitTest.dll
+C:\Ashish\Docs\MVC-Training\MVC-Training\MVC.UnitTest\obj\Debug\MVC.UnitTest.pdb
