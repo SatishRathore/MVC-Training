@@ -1,0 +1,92 @@
+﻿@model Helpers.Models.Registration
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm()) {
+    
+
+    <fieldset>
+        <legend>Registration</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.UserID)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.UserID)
+            
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Address)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Address)
+            
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Password)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Password)
+            
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.IsApproved)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.IsApproved)
+            
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.IsApprovedG)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.IsApprovedG)
+            
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Gender)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Gender)
+            
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Hobbies)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Hobbies)
+            
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

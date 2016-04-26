@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "ListVB";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ListVB</h2>
+@{ 
+    foreach (var student in ViewBag.Employee)
+        { 
+        <li>@student</li>
+        }
+    }

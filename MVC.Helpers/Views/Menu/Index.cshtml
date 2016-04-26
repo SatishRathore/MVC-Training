@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Inline Html Helpers</h2>
+<h3>Programming Languages:</h3> 
+
+ @ListingItems(new string[] { "C", "C++", "C#" })  
+ <h3>Book List:</h3>  
+ @ListingItems(new string[] { "How to C", "how to C++", "how to C#" }) 
+
+@helper ListingItems(string[] items)
+{     
+    <ol>
+        @foreach (string item in items)
+        {    
+            <li>@item</li>        
+        }
+
+    </ol>
+} 

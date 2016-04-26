@@ -1,0 +1,42 @@
+﻿@model Helpers.Models.Registration
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Strongly Typed HTML Helpers</h2>
+@using (Html.BeginForm("Save", "Registration", FormMethod.Post, new {id="SaveForm" }))
+{
+<table>
+    <tr>
+        <td>Name</td>
+        <td>@Html.TextBoxFor(m => m.Name)</td>        
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td>@Html.TextAreaFor(m => m.Address, 5, 15, null)</td>        
+    </tr>
+    <tr>
+        <td>UserID</td>
+        <td>@Html.HiddenFor(m => m.UserID) </td>        
+    </tr>
+    <tr>
+        <td>IsApproved</td>
+        <td>@Html.CheckBoxFor(m => m.IsApproved) </td>        
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>@Html.DropDownListFor(m => m.Gender, new SelectList(new[] { "Male", "Female" }))</td>        
+    </tr>
+    <tr>
+        <td>Hobbies</td>
+        <td>@Html.ListBoxFor(m => m.Hobbies, new MultiSelectList(new[] { "Cricket", "Chess" }))</td>        
+    </tr>
+   
+    <tr>
+        <td><input type="submit" id="btnSubmit" value="Submit"/></td>
+        <td><input type="submit" id="btnReset" value="Reset" /></td>
+    </tr>
+</table>
+}

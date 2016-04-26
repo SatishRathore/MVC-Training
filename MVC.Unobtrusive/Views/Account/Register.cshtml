@@ -1,0 +1,53 @@
+﻿@model MVC.Unobtrusive.Models.RegisterModel
+@{
+    ViewBag.Title = "Register";
+}
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>Create a new account.</h2>
+</hgroup>
+
+<!--<script src="~/Scripts/CustomJavascript.js" type="text/javascript"></script>-->
+
+
+<script type="text/javascript" >
+    function MouseOver(controlId) {
+        var control = document.getElementById(controlId);
+        control.style.backgroundColor = 'red'
+    }
+
+    function MouseOut(controlId) {
+        var control = document.getElementById(controlId);
+        control.style.backgroundColor = '#d3dce0'
+    }
+</script>
+
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Registration Form</legend>
+        <ol>
+            <li>
+                @Html.LabelFor(m => m.UserName)
+                @Html.TextBoxFor(m => m.UserName)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.Password)
+                @Html.PasswordFor(m => m.Password)
+            </li>
+            <li>
+                @Html.LabelFor(m => m.ConfirmPassword)
+                @Html.PasswordFor(m => m.ConfirmPassword)
+            </li>
+        </ol>
+        <input type="submit" id="btnSubmit" value="Register" onmouseover="MouseOver('btnSubmit')" onmouseout="MouseOut('btnSubmit')" />
+    </fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

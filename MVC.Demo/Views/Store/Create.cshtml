@@ -1,0 +1,56 @@
+﻿@model Demo.Models.LineItem
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <script src="~/Scripts/jquery-1.8.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    
+    @using (Html.BeginForm("Save", "Store", FormMethod.Post)) //Action,Controller,FormMethod{get or post}
+    {  
+           
+        <fieldset>
+            <legend>LineItem</legend>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Name)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Name)               
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Price)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Price)               
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Quantity)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Quantity)  @*Editor for defines the input type as  per the class for example the quanity has int it will allow only numbers*@              
+            </div>    
+            <p>
+                <input type="submit" value="Create" />
+            </p>
+        </fieldset>
+        
+    }  
+    
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+</body>
+</html>

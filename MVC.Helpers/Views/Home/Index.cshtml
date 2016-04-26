@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Standard Html Helpers</h2>
+
+<table>
+    <tr>
+        <td>Textbox</td>
+        <td>@Html.TextBox("txtStd", "DefaulttxtValue", new  { style="border:1px solid red;",id="IDTXT" })</td>        
+    </tr>
+    <tr>
+        <td>TextArea</td>
+        <td>@Html.TextArea("txtStdArea", "DefaultTextAreaValue", 5,15,null)</td>        
+    </tr>
+    <tr>
+        <td>Password</td>
+        <td>@Html.Password("txtPwd","DefaultPWDValue")</td>        
+    </tr>
+    <tr>
+        <td>Hidden</td>
+        <td>@Html.Hidden("hidden","DefaultHdnValue")</td>        
+    </tr>
+    <tr>
+        <td>CheckBox</td>
+        <td>@Html.CheckBox("ChkBox",false)</td>        
+    </tr>
+    <tr>
+        <td>RadioButton</td>
+        <td>@Html.RadioButton("RadioButton","Male",true)Male</td> 
+        <td>@Html.RadioButton("RadioButton","Female",false)Female</td>        
+    </tr>
+    <tr>
+        <td>DropDownList</td>
+        <td>@Html.DropDownList("drpDownList",new SelectList(new [] {"Male","Female"}))</td>        
+    </tr>
+    <tr>
+        <td>MultiSelect</td>
+        <td>@Html.ListBox("listbox",new MultiSelectList(new [] {"Cricket","Chess"}))</td>        
+    </tr>
+    <tr>
+        <td><input type="submit" id="btnSubmit" value="Submit"/></td>
+        <td><input type="submit" id="btnReset" value="Reset" /></td>
+    </tr>
+</table>

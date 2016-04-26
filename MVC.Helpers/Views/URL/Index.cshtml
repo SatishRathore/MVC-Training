@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>URL Helpers</h2>
+<a href="@Url.Content("~/Files/aspmvc.txt")">Click</a> 
+
+@*Relative URLS*@
+<br />
+
+@Html.ActionLink("Standard Html Helpers", "Index", "Home");
+@*Based on action/controller *@
+<br />
+<input type="button" value="redirect" onclick="location.href='@Url.Action("Index", "Home")'" />
+
+@*Raw URL For Action*@
